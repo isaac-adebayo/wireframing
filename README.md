@@ -126,3 +126,53 @@ Designing a detailed user profile page showing actual user data, styled buttons,
 
 The type of wire frame presented in the [link](https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw) is a high fidelity wire frame because it looks very close to the
 to the final UI. It has images, colours and the UI components that will be available in the final UI.
+
+### Wireframing Tools
+
+Wireframing tools help designers create visual blueprints of user interfaces. Some of the most popular tools include:
+
+- Figma
+
+- Adobe XD
+
+- Sketch
+
+- Balsamiq
+
+- Axure RP
+
+- Wireframe.cc
+
+- Lucidchart
+
+Each of these tools offers different levels of fidelity, collaboration features, and integration with design or development workflows.
+
+### Figma: Recommended Wireframing Tool
+
+#### Overview:
+
+Figma is a web-based design and prototyping tool known for its real-time collaboration and intuitive interface. It’s widely used by UI/UX designers for everything from low-fidelity wireframes to high-fidelity prototypes.
+
+#### Key Features:
+
+- Real-time collaboration — Multiple users can work on the same file simultaneously.
+
+- Cloud-based access — No need for downloads; works directly in the browser.
+
+- Component system — Reusable components make wireframing faster and consistent.
+
+- Built-in prototyping — Easily link screens and simulate interactions.
+
+- Cross-platform — Works on Windows, macOS, Linux (via browser).
+
+- Extensive plugins — Access to icons, UI kits, and productivity tools.
+
+#### Why Figma Is Great for Wireframing:
+
+- Fast and easy to learn — Ideal for both beginners and experienced designers.
+
+- Scalable — Supports everything from rough wireframes to final UI mockups.
+
+- Team-friendly — Designers, developers, and stakeholders can comment and give feedback directly within the file.
+
+- Version control — Tracks changes and allows easy reversions.
